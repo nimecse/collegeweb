@@ -1,0 +1,171 @@
+#page{
+	width: 100%;
+	height: 1200px;
+	margin: 0 auto;
+}
+#banner{
+text-align: center;
+
+}
+#banner_ul{
+	width:10%;
+    height:100px;
+	text-align: left;
+	background: white;
+}
+#banner_ul :hover  {
+	background:red;
+}
+#menu{
+	
+	width: 100%;
+	height: 50px;
+	background:green;
+}
+#menu ul{
+	width: 100%;
+	height: 50px;
+	margin-top:-5px;
+}
+#menu ul li{
+		
+	width: 175px;
+	display: inline-block;
+	text-align: center;
+	padding: 15px;
+}
+#menu ul li a{
+	
+	padding: 15px;
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+#menu ul li:hover {
+	background: red;
+	
+}
+
+#left {
+    height: 825px;
+    width: 25%;
+    padding: 10px;
+    background:black;
+    float: left;
+}
+
+#title {
+    color: #5E7AB7;
+    text-align: center;
+    font-family: inherit;
+}
+
+#title a h2:hover {
+    text-decoration: underline;
+}
+
+/*#list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}*/
+
+#list ul li {
+   list-style: none;
+    border-bottom: #0c4680 solid 1px;
+    line-height: 40px;
+    /*border: 1px solid #bbbbbb;*/
+}
+
+#list ul li a {
+    padding: 20px;
+    color: #1491c1;
+    text-decoration: none;
+}
+#left:hover {
+    background: green;
+}
+
+#list ul li a:hover {
+    color: red;
+}
+
+#middle {
+    width: 45.5%;
+	height:825px;
+    padding: 10px;
+    background: #fff;
+    float: left;
+}
+
+#vc {
+    width: 587px;
+    padding: 10px;
+    height: 300px;
+    margin: 0px;
+    background: #F1F1F1;
+}
+
+.pic img {
+    border-radius: 10%;
+}
+
+#talk {
+    width: 587px;
+    padding: 10px;
+    height: 300px;
+    margin: 0px;
+    background: #F1F1F1;
+}
+#right {
+    width: 25%;
+	height:825px;
+    padding: 10px;
+    background: black;
+    float: right;
+}
+#right:hover{
+	background:green;
+}
+
+#recent {
+    color: #5E7AB7;
+    text-align: center;
+    font-family: inherit;
+}
+
+#recent a h3:hover {
+    text-decoration: underline;
+}
+
+
+.content ul li {
+    list-style: none;
+    border-bottom: #0c4680 solid 1px;
+    line-height: 40px;
+}
+
+.content ul li a {
+    text-decoration: none;
+    color: #1491c1;
+}
+
+.content ul li a:hover {
+    color: red;
+}
+#footer{
+	height: 80px;
+	width: 100%;
+	background: gray;
+	margin: 0 auto;
+}
+#footer ul{
+	width: 100%;
+	height: 70px;
+	margin-top:-3px;
+}
+#footer:hover{
+    background:red;
+	
+}

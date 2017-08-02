@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My frist web </title>
+	<link href="style.css" rel="stylesheet" type="text/css" >
+	
+</head>
+<body>
+
+	<div id="page">
+		<marquee>This is Website</marquee>
+	 <ul>
+          <a href="This is logo.">Logo</a>
+          <img src="images/ccc.jpg" width="12%" height="100">
+        </ul>
+      
+		
+				<div id="banner">
+					<img src="images/aaa.jpeg" width="950px" height="300">
+
+				</div>
+
+				<div id="menu">
+					<ul>
+						<li> <a href="#">Home</a></li>
+						<li> <a href="#">About</a></li>
+						<li> <a href="#">Tutorials</a></li>
+						<li> <a href="#">Book</a></li>
+						<li> <a href="#">Program</a></li>
+						<li> <a href="#">Contact us</a></li>
+					</ul>					
+				</div>
+
+				<div id="left">
+				    <div > <h2> Outline </h2> </div>
+					   <div class="Title">
+						   <table border="1" cellspacing="20" cellpadding="15" bgcolor="violet" width="180px">
+							    <tr>									  
+									<td><a href="html.pdf"> Lecture 1</a></td>
+								</tr>
+								<tr>									    
+									<td><a href="lecture2.ppt"> Lecture 2</a></td>
+								</tr>
+								<tr>									    
+									<td><a href="lecture2-demos.zip"> Lecture 2 - Demos</a></td>
+							    </tr>
+							</table>						
+					</div>					
+				</div>
+
+				<div id="middle">
+					<p> <center> My name is: <b>Nime</b> <blockquote> Id: <b> 142311073<b> <blockquote> Semester:<b> 8<pur>th<pur>,VU </blockquote> </center> </p>
+				</div>
+
+				<div id="right">
+				     <div > <h2> SOFTWARE </h2> </div>
+				      <div class="Title">
+				           <table border="1" cellspacing="25" cellpadding="15" bgcolor="violet" width="180px">
+							    <tr>									  
+									<td><a href="html.pdf"> Video</td>
+								</tr>
+								<tr>									    
+									<td><a href="lecture2.ppt"> Audio</td>
+								</tr>
+								<tr>									    
+									<td><a href="lecture2-demos.zip"> Program</td>
+							    </tr>
+							</table>	
+						</P>
+					
+				</div>
+
+	</div>
+		<div id="footer">
+			<center>	www.anin2282@gmail.com  </center>		
+	    </div>
+
+</body>
+</html>
